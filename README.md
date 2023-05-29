@@ -1,4 +1,4 @@
-# Windows-11-upgrade
+# Windows-11-upgrade via Rufus.
 ##How to upgrade your computer into Windows 11 pro?
 - Here are your step-by-step instructions: 
 - 1.) First, you'll need to buy a USB drive. You can easily find these at any electronics store or online retailer. 
